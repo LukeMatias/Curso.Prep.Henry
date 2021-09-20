@@ -1,0 +1,26 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+   color: red;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: blue;
+  padding: 50px;
+  border: 10px dotted red;  
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
